@@ -37,7 +37,7 @@ void loadScoresToFile()
 
 int main() 
 {
-    InitWindow(screenWidth, screenHeight, "Doraemon");
+    InitWindow(screenWidth, screenHeight, "Doraemon's Quest: Time Warp Adventures");
     InitAudioDevice();
 
     loadScoresToFile();
