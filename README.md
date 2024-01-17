@@ -31,7 +31,7 @@ I hope this project not only reflects my journey but also provides an opportunit
   2. gameplayScreen function(contained within gameplay.c file)
   3. endingScreen function(contained within ending.c file)
     
-- Moreover the the gameplayScreen fucntions is the core gameplay function that furthur contains bunch of functions thatare declared in the header file gadgets.h and defined in    gadgets.c
+- Moreover the the gameplayScreen fucntions is the core gameplay function that further contains bunch of functions that are declared in the header file gadgets.h and defined in    gadgets.c
   
 - Together you can think of it as main.c that runs on title.c, gameplay.c(that runs on gadgets.c and gadgets.h) and ending.c and these three are connected by game.h
 
