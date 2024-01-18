@@ -9,7 +9,6 @@ I hope this project not only reflects my journey but also provides an opportunit
 ## Key Points
 
 - This project explores various aspects of [Raylib](https://www.raylib.com/), a C library for game development.
-- Tutorials for Raylib in C, especially without Object-Oriented Programming (OOP), are relatively scarce. 
 
 ## Learning Resources
 
