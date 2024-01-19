@@ -195,7 +195,7 @@ void titleScreen(void)
             int scoresX = (screenWidth * 0.2) + 250, scoresY = (screenHeight * 0.2) + 260; 
             for(int i = 0; i < 5; i++)
             {
-                sprintf(scoresTextOption, "\nGame %d scores: %d",  i, score[i]);
+                sprintf(scoresTextOption, "\nGame %d scores: %d",  i + 1, score[i]);
                 DrawTextEx(customFont,scoresTextOption, (Vector2){scoresX, scoresY}, 20, 5,  BLACK);
                 scoresY += 50;
             }
