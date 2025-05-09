@@ -1,6 +1,4 @@
-# 1st-Semester-Project
-
-This project, completed by "Syed Abdullah," marks the culmination of the first semester, concluding on "1-12-2024."
+# Mario Inspired Game
 
 ## Acknowledgment
 
